@@ -1,2 +1,5 @@
 __pycache__
 attachments
+*.pyc
+attachment_issue_map
+*.json
